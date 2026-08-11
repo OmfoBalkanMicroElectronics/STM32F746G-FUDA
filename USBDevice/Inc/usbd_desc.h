@@ -1,0 +1,9 @@
+#ifndef CLEANMP3PLAYER_USBD_DESC_H
+#define CLEANMP3PLAYER_USBD_DESC_H
+#include "usbd_def.h"
+#define DEVICE_ID1 0x1FFF7A10U
+#define DEVICE_ID2 0x1FFF7A14U
+#define DEVICE_ID3 0x1FFF7A18U
+#define USB_SIZ_STRING_SERIAL 0x1AU
+extern USBD_DescriptorsTypeDef AUDIO_Desc;
+#endif

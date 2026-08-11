@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_UFGB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Gain:*+/-*value*</Translation>
+      </Text>
+      <Text Id="__SingleUse_DSEE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Hız&amp;Tempo ayarı:*value*</Translation>
+      </Text>
+      <Text Id="__SingleUse_BAMM" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Aç/Kapa</Translation>
+      </Text>
+      <Text Id="__SingleUse_J98N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Sil?</Translation>
+      </Text>
+      <Text Id="__SingleUse_L98C" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Evet</Translation>
+      </Text>
+      <Text Id="__SingleUse_RVM0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hayır</Translation>
+      </Text>
+      <Text Id="__SingleUse_SXF0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">yol</Translation>
+      </Text>
+      <Text Id="__SingleUse_SU1U" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Klasör</Translation>
+      </Text>
+      <Text Id="__SingleUse_S262" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_B6X3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">yol</Translation>
+      </Text>
+      <Text Id="__SingleUse_RSST" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Klasör</Translation>
+      </Text>
+      <Text Id="__SingleUse_94LL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Durum:*recordStatus*</Translation>
+      </Text>
+      <Text Id="__SingleUse_2PWQ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Ses Kaydedici</Translation>
+      </Text>
+      <Text Id="__SingleUse_BBLE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Sağ</Translation>
+      </Text>
+      <Text Id="__SingleUse_TM7Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Sol</Translation>
+      </Text>
+      <Text Id="__SingleUse_QKOR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Kaydet?</Translation>
+      </Text>
+      <Text Id="__SingleUse_F0L9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hayır</Translation>
+      </Text>
+      <Text Id="__SingleUse_80F9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Evet</Translation>
+      </Text>
+      <Text Id="__SingleUse_L6LF" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Başlat</Translation>
+      </Text>
+      <Text Id="__SingleUse_9OZJ" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">Dosya İsimi*recordFileName*.*recordFormatValue*</Translation>
+      </Text>
+      <Text Id="__SingleUse_V0K4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Durdur</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y20T" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Kayıt Süresi:*recordTimeValue*</Translation>
+      </Text>
+      <Text Id="__SingleUse_T8G0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ses Kaydedicisi</Translation>
+      </Text>
+      <Text Id="__SingleUse_2SEQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Tempo: *-/+*value,value*</Translation>
+      </Text>
+      <Text Id="__SingleUse_0VAE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Hız: *-/+*value,value*x*</Translation>
+      </Text>
+      <Text Id="__SingleUse_DFZK" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Vocal</Translation>
+      </Text>
+      <Text Id="__SingleUse_4SZL" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Pop</Translation>
+      </Text>
+      <Text Id="__SingleUse_KFYV" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Rock</Translation>
+      </Text>
+      <Text Id="__SingleUse_WX2S" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Jazz</Translation>
+      </Text>
+      <Text Id="__SingleUse_G60V" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Klasik</Translation>
+      </Text>
+      <Text Id="__SingleUse_5M9O" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Flat</Translation>
+      </Text>
+      <Text Id="__SingleUse_FK9Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">16k</Translation>
+      </Text>
+      <Text Id="__SingleUse_FGIT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">8k</Translation>
+      </Text>
+      <Text Id="__SingleUse_HZUZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">4k</Translation>
+      </Text>
+      <Text Id="__SingleUse_8HE8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">2k</Translation>
+      </Text>
+      <Text Id="__SingleUse_66MH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">1k</Translation>
+      </Text>
+      <Text Id="__SingleUse_4YRK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">500</Translation>
+      </Text>
+      <Text Id="__SingleUse_7R75" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">250</Translation>
+      </Text>
+      <Text Id="__SingleUse_LKCD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">125</Translation>
+      </Text>
+      <Text Id="__SingleUse_S2BZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">62</Translation>
+      </Text>
+      <Text Id="__SingleUse_W5XN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">31</Translation>
+      </Text>
+      <Text Id="__SingleUse_NJCE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Gain</Translation>
+      </Text>
+      <Text Id="__SingleUse_0KXP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ethernet Durumu:*ETHStatus*</Translation>
+      </Text>
+      <Text Id="__SingleUse_CT01" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Cihazın IP Adresi:*IPvalue*</Translation>
+      </Text>
+      <Text Id="__SingleUse_HVJB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Up MBPS:*UpValue*</Translation>
+      </Text>
+      <Text Id="__SingleUse_W34K" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Down MBPS:*DownValue*</Translation>
+      </Text>
+      <Text Id="__SingleUse_8JSP" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Hız testini başlat</Translation>
+      </Text>
+      <Text Id="__SingleUse_IW7N" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">ethdiag_v1.0_110826_1213</Translation>
+      </Text>
+      <Text Id="__SingleUse_SA9F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Internet Sorun Gider'e Hoşgeldiniz.</Translation>
+      </Text>
+      <Text Id="__SingleUse_FYWO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Sorun gider</Translation>
+      </Text>
+      <Text Id="__SingleUse_MIC9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="songname" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Song</Translation>
+      </Text>
+      <Text Id="textFileName" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="sesseviye" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">%80</Translation>
+      </Text>
+      <Text Id="__SingleUse_NF05" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ses:&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XE0W" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Mod:Asla</Translation>
+      </Text>
+      <Text Id="__SingleUse_OFEJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">60sn :o</Translation>
+      </Text>
+      <Text Id="__SingleUse_FGH7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">30sn :)</Translation>
+      </Text>
+      <Text Id="__SingleUse_B9W8" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Asla!!!!</Translation>
+      </Text>
+      <Text Id="textTimeout60sn" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Mod:60s</Translation>
+      </Text>
+      <Text Id="textTimeout30sn" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Mod:30s</Translation>
+      </Text>
+      <Text Id="timeout" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Asla</Translation>
+      </Text>
+      <Text Id="textTimeout" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Mod:Asla</Translation>
+      </Text>
+      <Text Id="__SingleUse_YOF2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ekran Uyku Modu</Translation>
+      </Text>
+      <Text Id="brightness" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">100</Translation>
+      </Text>
+      <Text Id="__SingleUse_TQ8C" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Parlaklık: %&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_716L" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ekran Ayarları</Translation>
+      </Text>
+      <Text Id="__SingleUse_139D" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Yazılım:BROBMMP&#10;FreeRTOS&#10;Versiyon:1.0&#10;Bunlar ile yapılmıştır,&#10;STM32CUBEIDE x&#10;STM32CUBEMX x&#10;TouchGFX&#10;       09/07/2026&#10;            21:02</Translation>
+      </Text>
+      <Text Id="__SingleUse_B6YX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">BarTrok</Translation>
+      </Text>
+      <Text Id="__SingleUse_UD1L" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"> OBM</Translation>
+      </Text>
+      <Text Id="__SingleUse_I5IJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Özel Teşekkürler</Translation>
+      </Text>
+      <Text Id="__SingleUse_JET5" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Kart:STM32F746G-DISCO&#10;Çekirdek:STM32F746NGH6&#10;Ram:380KB SRAM + Kart üzeri 8MB SDRAM&#10;Depolama:1MB Flaş + Kart üzeri 16MB Quad-SPI&#10;Ekran:4.3" Renkli TFT-LCD 480x272 LTDC ve&#10;Kapasitif Çoklu-dokunma destekli panel&#10;Ses: SAI 5-Band ekolayzıra sahip WM8994 24-Bit&#10;Kodek çipi&#10;Çekirdek hızı 200-216MHz&#10;Ekstralar:&#10;2 Adet ST-MEMS Mikrofon,10/100 Ethernet&#10;2x USB-OTG(HS&amp;FS) ve µSD Kart Slotu&#10;ARDUINO® Uno V3 Uyumlu headerlar&#10;Kamera modülü konektörü ve SPDIF IN Jakı</Translation>
+      </Text>
+      <Text Id="__SingleUse_LOOE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Sistem Bilgileri</Translation>
+      </Text>
+      <Text Id="__SingleUse_SCN8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OBM FUDA MultiPlayer</Translation>
+      </Text>
+      <Text Id="__SingleUse_EQQ1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hakkında</Translation>
+      </Text>
+      <Text Id="__SingleUse_682B" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Ağ Ayarları</Translation>
+      </Text>
+      <Text Id="__SingleUse_VAK7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Ekran </Translation>
+      </Text>
+      <Text Id="__SingleUse_E5SQ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Dosya Gezgini</Translation>
+      </Text>
+      <Text Id="__SingleUse_4PDB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Pop</Translation>
+      </Text>
+      <Text Id="__SingleUse_EA9U" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Klas</Translation>
+      </Text>
+      <Text Id="__SingleUse_GE0C" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Caz</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZXGI" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Rock</Translation>
+      </Text>
+      <Text Id="__SingleUse_ET84" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Normal</Translation>
+      </Text>
+      <Text Id="duration" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0:00</Translation>
+      </Text>
+      <Text Id="__SingleUse_VBF4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">3:50</Translation>
+      </Text>
+      <Text Id="__SingleUse_JWNJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XS26" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">300Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_6GAR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">875Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_6AQT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">2.4KHz</Translation>
+      </Text>
+      <Text Id="__SingleUse_RTRL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">6.9KHz</Translation>
+      </Text>
+      <Text Id="__SingleUse_888W" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">100Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_OAZD" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Geri Dön</Translation>
+      </Text>
+      <Text Id="__SingleUse_NI36" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GokhanGuler6388 - Gırgır Şamata</Translation>
+      </Text>
+      <Text Id="__SingleUse_3KZ7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Oyna/Dur</Translation>
+      </Text>
+      <Text Id="__SingleUse_ELSQ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Sonraki</Translation>
+      </Text>
+      <Text Id="__SingleUse_JG0N" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Önceki</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="ÇĞİÖŞÜçğıöşü" WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="verdana.ttf" Size="18" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
